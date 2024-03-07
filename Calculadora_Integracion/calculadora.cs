@@ -12,7 +12,7 @@ namespace Calculator
 
             do// utilizando el bucle do while , el programa correra hasta que le solicitimes que se detenga 
             {
-                Console.WriteLine("CALCULADORA - GUILLERMO ALONSO- Edgar Vaca ");
+                Console.WriteLine("CALCULADORA - GUILLERMO ALONSO- Edgar Vaca - Robert Quilumba ");
                 Console.WriteLine("---------------------------------------------------------------------------------");
                 Console.WriteLine("Seleccione una operación a realizar: \nS - Suma \nR - Resta \nM - Multiplicación \nD - División");
                 Console.WriteLine("---------------------------------------------------------------------------------");
