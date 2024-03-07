@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculadora_Integracion
-build_property.ProjectDir = C:\Users\memom\Source\Repos\Prueba_Integracion\Calculadora_Integracion\
+build_property.ProjectDir = C:\Users\memom\source\repos\Prueba_Integracion\Calculadora_Integracion\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

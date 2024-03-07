@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora_Integracion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c91bbc002be50b6d90cc50ca2241758993a7a6ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2941d4b96d53e5513e5c238db07da56aaeb01f1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadora_Integracion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadora_Integracion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
