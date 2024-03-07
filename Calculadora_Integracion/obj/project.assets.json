@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Integracion\\Prueba_Integracion\\Calculadora_Integracion\\Calculadora_Integracion.csproj",
+      "projectUniqueName": "C:\\Users\\memom\\Source\\Repos\\Prueba_Integracion\\Calculadora_Integracion\\Calculadora_Integracion.csproj",
       "projectName": "Calculadora_Integracion",
-      "projectPath": "D:\\Integracion\\Prueba_Integracion\\Calculadora_Integracion\\Calculadora_Integracion.csproj",
+      "projectPath": "C:\\Users\\memom\\Source\\Repos\\Prueba_Integracion\\Calculadora_Integracion\\Calculadora_Integracion.csproj",
       "packagesPath": "C:\\Users\\memom\\.nuget\\packages\\",
-      "outputPath": "D:\\Integracion\\Prueba_Integracion\\Calculadora_Integracion\\obj\\",
+      "outputPath": "C:\\Users\\memom\\Source\\Repos\\Prueba_Integracion\\Calculadora_Integracion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
