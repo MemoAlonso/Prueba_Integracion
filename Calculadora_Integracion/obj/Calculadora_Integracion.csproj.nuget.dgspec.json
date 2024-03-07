@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visualcodes\\Calculadora_Integracion\\Calculadora_Integracion.csproj": {}
+    "D:\\Integracion\\Prueba_Integracion\\Calculadora_Integracion\\Calculadora_Integracion.csproj": {}
   },
   "projects": {
-    "D:\\visualcodes\\Calculadora_Integracion\\Calculadora_Integracion.csproj": {
+    "D:\\Integracion\\Prueba_Integracion\\Calculadora_Integracion\\Calculadora_Integracion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visualcodes\\Calculadora_Integracion\\Calculadora_Integracion.csproj",
+        "projectUniqueName": "D:\\Integracion\\Prueba_Integracion\\Calculadora_Integracion\\Calculadora_Integracion.csproj",
         "projectName": "Calculadora_Integracion",
-        "projectPath": "D:\\visualcodes\\Calculadora_Integracion\\Calculadora_Integracion.csproj",
+        "projectPath": "D:\\Integracion\\Prueba_Integracion\\Calculadora_Integracion\\Calculadora_Integracion.csproj",
         "packagesPath": "C:\\Users\\memom\\.nuget\\packages\\",
-        "outputPath": "D:\\visualcodes\\Calculadora_Integracion\\obj\\",
+        "outputPath": "D:\\Integracion\\Prueba_Integracion\\Calculadora_Integracion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
