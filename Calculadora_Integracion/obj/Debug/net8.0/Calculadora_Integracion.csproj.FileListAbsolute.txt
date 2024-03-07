@@ -1,0 +1,14 @@
+D:\visualcodes\Calculadora_Integracion\bin\Debug\net8.0\Calculadora_Integracion.exe
+D:\visualcodes\Calculadora_Integracion\bin\Debug\net8.0\Calculadora_Integracion.deps.json
+D:\visualcodes\Calculadora_Integracion\bin\Debug\net8.0\Calculadora_Integracion.runtimeconfig.json
+D:\visualcodes\Calculadora_Integracion\bin\Debug\net8.0\Calculadora_Integracion.dll
+D:\visualcodes\Calculadora_Integracion\bin\Debug\net8.0\Calculadora_Integracion.pdb
+D:\visualcodes\Calculadora_Integracion\obj\Debug\net8.0\Calculadora_Integracion.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcodes\Calculadora_Integracion\obj\Debug\net8.0\Calculadora_Integracion.AssemblyInfoInputs.cache
+D:\visualcodes\Calculadora_Integracion\obj\Debug\net8.0\Calculadora_Integracion.AssemblyInfo.cs
+D:\visualcodes\Calculadora_Integracion\obj\Debug\net8.0\Calculadora_Integracion.csproj.CoreCompileInputs.cache
+D:\visualcodes\Calculadora_Integracion\obj\Debug\net8.0\Calculadora_Integracion.dll
+D:\visualcodes\Calculadora_Integracion\obj\Debug\net8.0\refint\Calculadora_Integracion.dll
+D:\visualcodes\Calculadora_Integracion\obj\Debug\net8.0\Calculadora_Integracion.pdb
+D:\visualcodes\Calculadora_Integracion\obj\Debug\net8.0\Calculadora_Integracion.genruntimeconfig.cache
+D:\visualcodes\Calculadora_Integracion\obj\Debug\net8.0\ref\Calculadora_Integracion.dll
